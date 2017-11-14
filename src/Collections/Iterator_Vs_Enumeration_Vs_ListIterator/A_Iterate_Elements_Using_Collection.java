@@ -28,7 +28,7 @@ public class A_Iterate_Elements_Using_Collection {
         list.add("2");
         list.add("3");
         list.add("4");
-        list.add("5");
+        list.add("5") ;
         Iterator<String> iterator = list.iterator();
         while(iterator.hasNext()){
             System.out.println(iterator.next());
