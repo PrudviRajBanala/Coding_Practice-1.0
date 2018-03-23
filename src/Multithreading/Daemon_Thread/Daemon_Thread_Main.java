@@ -26,5 +26,12 @@ public class Daemon_Thread_Main extends Thread{
         Daemon_Thread_Main dtm = new Daemon_Thread_Main();
         dtm.start();
         System.out.println("Result");
+		
+		
+		
+		
+		
+		
+		
     }
 }
